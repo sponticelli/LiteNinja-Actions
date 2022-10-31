@@ -1,0 +1,24 @@
+{
+    "name": "com.liteninja.actions",
+    "version": "1.0.0",
+    "displayName": "LiteNinja Actions",
+    "description": "A ",
+    "unity": "2021.1",
+    "documentationUrl": "https://github.com/sponticelli/LiteNinja-SOA/blob/main/README.md",
+    "changelogUrl": "https://github.com/sponticelli/LiteNinja-SOA/blob/main/changelog.md",
+    "licensesUrl": "https://github.com/sponticelli/LiteNinja-SOA/blob/main/LICENSE",
+    "dependencies": {
+    },
+    "keywords": [
+      "utility",
+      "SOA",
+      "Scriptable Object",
+      "architecture",
+      "utils"
+    ],
+    "author": {
+      "name": "Sandro Ponticelli",
+      "email": "sandro.ponticelli@gmail.com",
+      "url": "https://github.com/sponticelli"
+    }
+  }
